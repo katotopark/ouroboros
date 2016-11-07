@@ -1,2 +1,2 @@
 # ouroboros
-generative society simulation
+a generative society simulation
